@@ -7,7 +7,6 @@
 
 
 - 📫 How to reach me **syedabubakerali04@gmaill.com**
-- Portfolio Link:- https://syedabubakerali.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +27,7 @@
   </tr>
   <tr>
     <td>Parakh Online Pvt ltd</td>
-    <td>Java Developer Intern</td>
+    <td>Frontend Developer Intern</td>
   </tr>
 </table>
 
