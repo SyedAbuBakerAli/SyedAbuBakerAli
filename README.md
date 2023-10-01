@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>Parakh Online Pvt ltd</td>
-    <td>Frontend Developer Intern</td>
+    <td>Java Developer Intern</td>
   </tr>
 </table>
 
