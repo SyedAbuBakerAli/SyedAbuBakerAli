@@ -22,11 +22,15 @@
     <th><b>Position</b></th>
   </tr>
   <tr>
-    <td>Parakh Online Pvt ltd</td>
+    <td>Writomat</td>
+    <td>Full Stack Intern</td>
+  </tr>
+  <tr>
+    <td>Parakh Online Pvt Ltd</td>
     <td>Software Engineer II</td>
   </tr>
   <tr>
-    <td>Parakh Online Pvt ltd</td>
+    <td>Parakh Online Pvt Ltd</td>
     <td>Java Developer Intern</td>
   </tr>
 </table>
